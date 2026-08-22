@@ -36,7 +36,7 @@
 
 <div align="center">
 
-### 🤖 Agentic AI Developer from India 🇮🇳
+###  Agentic AI Developer from India 🇮🇳
 
 **I build intelligent systems that can reason, use tools, automate workflows and solve real-world problems.**
 
