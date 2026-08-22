@@ -97,9 +97,9 @@
 | 🤖 AI / ML | 🧠 LLM Engineering | ⚡ Agentic AI | 📊 Data |
 |:---:|:---:|:---:|:---:|
 | Machine Learning | LLMs | AI Agents | Pandas |
-| Deep Learning | Prompt Engineering | Tool Calling | NumPy |
-| NLP | RAG | Multi-Agent Systems | Scikit-Learn |
-| PyTorch | Embeddings | AI Automation | Data Analysis |
+|Exploring Deep Learning | Prompt Engineering | Tool Calling | NumPy |
+|Exploring NLP | RAG | Multi-Agent Systems | Scikit-Learn |
+|Exploring PyTorch | Embeddings | AI Automation | Data Analysis |
 
 </div>
 
