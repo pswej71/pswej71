@@ -164,8 +164,8 @@
 <td align="center">📒<br><b>Digital Ledger</b></td>
 <td align="center">🚜<br><b>Equipment Management</b></td>
 <td align="center">📊<br><b>Business Analytics</b></td>
-<td align="center">🤖<br><b>AI Assistant</b></td>
-<td align="center">🌦️<br><b>Weather APIs</b></td>
+<td align="center">🤖<br><b>AI Assistant(soon)</b></td>
+<td align="center">🌦️<br><b>market APIs</b></td>
 </tr>
 </table>
 
